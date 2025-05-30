@@ -1,7 +1,7 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuc-chen)](https://github.com/anuraghazra/github-readme-stats)
+## Hello! 👋
+![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=cuc-chen&show_icons=true&theme=catppuccin_mocha)
 <!--
-![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=cuc-chen&show_icons=true&theme=tokyonight&cache_seconds=0)
+
 
 
 Here are some ideas to get you started:
